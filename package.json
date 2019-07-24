@@ -22,7 +22,6 @@
     "@angular/router": "~7.0.0",
     "amexio-ng-extensions": "https://github.com/meta-magic/amexio-ios/blob/v5.16/amexio-ng-extensions.tgz?raw=true",
     "core-js": "^2.5.4",
-    "productlib": "file:productlib-0.0.1.tgz",
     "rxjs": "~6.3.3",
     "zone.js": "~0.8.26"
   },
